@@ -1,3 +1,4 @@
+/*在main函数之前执行代码实例*/
 #include<stdio.h>
 __attribute((constructor)) void before_main()  
 {
