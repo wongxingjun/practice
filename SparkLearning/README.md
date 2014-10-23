@@ -29,8 +29,8 @@ cd YOUR_SPARK_HOME
 
 ./bin/spark_submmit \
 
-	--class "simpleTest" \
+--class "simpleTest" \
 
-	--master local[2] \
+--master local[2] \
 
-	target/scala-2.9.3/(YOUR_jar_Name)
+target/scala-2.9.3/(YOUR_jar_Name)
