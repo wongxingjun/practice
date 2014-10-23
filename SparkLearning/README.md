@@ -21,6 +21,10 @@ simpleTest/src/main/scala/simpleTest.scala
 
 After all editing and setting, let's generate the package
 
+$sbt package
+
+Finally,let's run the app
+
 cd YOUR_SPARK_HOME
 
 ./bin/spark_submmit \
