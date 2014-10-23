@@ -1,4 +1,4 @@
-This example is just a silly copy from http//spark.apache.org/docs/latest/quick-start.html.
+This example is just a silly copy from http://spark.apache.org/docs/latest/quick-start.html.
 
 To run this example, you should confirm:
 
