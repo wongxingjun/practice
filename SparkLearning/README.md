@@ -13,14 +13,20 @@ To run this example, you should confirm:
 Then layout the files as follows:
 
 simpleTest/
+
 simpleTest/test.sbt
+
 simpleTest/src/main/scala/simpleTest.scala
 
 
 After all editing and setting, let's generate the package
 
 cd YOUR_SPARK_HOME
+
 ./bin/spark_submmit \
-		--class "simpleTest" \
-		--master local[2] \
-		target/scala-2.9.3/(YOUR_jar_Name)
+
+	--class "simpleTest" \
+
+	--master local[2] \
+
+	target/scala-2.9.3/(YOUR_jar_Name)
