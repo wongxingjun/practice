@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mPackaging /root/spark_wordcount/target/scala-2.10/wordcount_2.10-1.0.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	sparkstreaming[0m
+[0m[[0mdebug[0m] [0m	  /root/spark_wordcount/target/scala-2.10/classes/sparkstreaming[0m
+[0m[[0mdebug[0m] [0m	sparkstreaming/example[0m
+[0m[[0mdebug[0m] [0m	  /root/spark_wordcount/target/scala-2.10/classes/sparkstreaming/example[0m
+[0m[[0mdebug[0m] [0m	sparkstreaming/example/HdfsWordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark_wordcount/target/scala-2.10/classes/sparkstreaming/example/HdfsWordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	sparkstreaming/example/HdfsWordCount.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark_wordcount/target/scala-2.10/classes/sparkstreaming/example/HdfsWordCount.class[0m
+[0m[[0mdebug[0m] [0m	sparkstreaming/example/HdfsWordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark_wordcount/target/scala-2.10/classes/sparkstreaming/example/HdfsWordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	sparkstreaming/example/HdfsWordCount$.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark_wordcount/target/scala-2.10/classes/sparkstreaming/example/HdfsWordCount$.class[0m
+[0m[[0mdebug[0m] [0m	sparkstreaming/example/HdfsWordCount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark_wordcount/target/scala-2.10/classes/sparkstreaming/example/HdfsWordCount$$anonfun$3.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
