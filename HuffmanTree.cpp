@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 #include<malloc.h>
-#define N 4
+const int N=4;
 using namespace std;
 using std::string;
 typedef struct
